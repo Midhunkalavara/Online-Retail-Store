@@ -31,16 +31,3 @@ In pursuit of our objectives, we'll undertake the following tasks:
 
 6. **Conclusion Drawing:**
    - Based on findings, generate ideas to enhance sales and customer satisfaction.
-
-## Dataset Information
-**File:** Online Retail.xlsx
-
-**Contents:**
-- InvoiceNo: Invoice number of the transaction
-- StockCode: Unique code of the product
-- Description: Description of the product
-- Quantity: Quantity of the product in the transaction
-- InvoiceDate: Date and time of the transaction
-- UnitPrice: Unit price of the product
-- CustomerID: Unique identifier of the customer
-- Country: Country where the transaction occurred

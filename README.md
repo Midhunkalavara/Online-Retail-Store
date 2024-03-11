@@ -1,5 +1,12 @@
 # Online Retail Store: Exploratory Data Analysis with Python
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Project Tasks](#project-tasks)
+- [Dataset Information](#dataset-information)
+- [Data Visualizations](#data-visualizations)
+- [Summary](#summary)
 
 ## Project Overview
 This project centers around leveraging data analysis techniques to gain insights into the operations of an online retail store. By examining real sales data, our objective is to facilitate informed decision-making, ultimately aiding the store in making better business choices. Key focus areas include understanding:
@@ -45,24 +52,28 @@ In pursuit of our objectives, we'll undertake the following tasks:
 - CustomerID: Unique identifier of the customer
 - Country: Country where the transaction occurred
 
-## Data Visualisations
+## Data Visualizations
 
-### Scatter plot for Quantity vs UnitPrice
+#### Scatter plot for Quantity vs UnitPrice
+
+![Scatter plot for Quantity vs UnitPrice](https://github.com/Midhunkalavara/Online-Retail-Store/assets/114302683/a8963acb-2bfc-4d77-8f54-6c59d3f7a016)
+
+#### Bar plot for Country-wise sales
+
+![Bar plot for Country-wise sales](https://github.com/Midhunkalavara/Online-Retail-Store/assets/114302683/7c6f23ca-e6a3-41ab-ad41-8aa5157c4553)
+
+#### Monthly sales trends
+
+![Monthly sales trends](https://github.com/Midhunkalavara/Online-Retail-Store/assets/114302683/bd33f04c-c5f5-439e-8dc2-04beac1d133b)
+
+#### Weekly sales trends
+
+![Weekly sales trends](https://github.com/Midhunkalavara/Online-Retail-Store/assets/114302683/01868c7f-9d38-4d21-925d-09d4559577e8)
+
+#### Top-selling products
 
 
-### Bar plot for Country-wise sales
-
-
-### Monthly sales trends
-
-
-### Weekly sales trends
-
-
-### Top-selling products
-
-
-## Conclusion:
+## Summary:
 
 #### Busiest day:
 Fridays seem to be the busiest day of the week based on total quantity sold.

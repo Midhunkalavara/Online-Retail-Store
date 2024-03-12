@@ -76,7 +76,7 @@ In pursuit of our objectives, we'll undertake the following tasks:
 ![image](https://github.com/Midhunkalavara/Online-Retail-Store/assets/114302683/da5ac99a-f561-4a94-af28-eb1c771b4961)
 
 
-## Summary:
+## Summary
 
 #### Busiest day:
 Thursdays seem to be the busiest day of the week based on total quantity sold.
@@ -101,7 +101,7 @@ The descriptive statistics provide insights into the distribution of numerical f
 
 we can use these insights to inform further analysis or data-driven decisions for the online retail store.
 
-## Recommendations:
+## Recommendations
 
 1. **Optimize Thursday Promotions:** Since Thursdays are the busiest days, consider running special promotions or marketing campaigns specifically on Thursdays to capitalize on increased customer activity.
    

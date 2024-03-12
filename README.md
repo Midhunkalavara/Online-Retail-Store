@@ -73,6 +73,8 @@ In pursuit of our objectives, we'll undertake the following tasks:
 
 #### Top-selling products
 
+![image](https://github.com/Midhunkalavara/Online-Retail-Store/assets/114302683/da5ac99a-f561-4a94-af28-eb1c771b4961)
+
 
 ## Summary:
 

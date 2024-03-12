@@ -81,6 +81,8 @@ In pursuit of our objectives, we'll undertake the following tasks:
 #### Busiest day:
 Fridays seem to be the busiest day of the week based on total quantity sold.
 
+####Optimal Months: November takes the lead as the top-selling month, closely followed by October and December.
+
 #### Top products:
 The analysis identified the top 10 best-selling products by total quantity sold.
 - "JUMBO BAG RED RETROSPOT" is the top-selling product, followed by "WORLD WAR 2 GLIDERS ASSTD DESIGNS" and "WHITE HANGING HEART T-LIGHT HOLDER".

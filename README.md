@@ -58,6 +58,7 @@ In pursuit of our objectives, we'll undertake the following tasks:
 Thursdays seem to be the busiest day of the week based on total quantity sold.
 
 ![Weekly sales trends](https://github.com/Midhunkalavara/Online-Retail-Store/assets/114302683/01868c7f-9d38-4d21-925d-09d4559577e8)
+- No Saturday entries in the dataset may indicate incomplete data or that the online store doesn't operate on Saturdays.
 
 ### Optimal Months: 
 November takes the lead as the top-selling month, closely followed by October and December.
